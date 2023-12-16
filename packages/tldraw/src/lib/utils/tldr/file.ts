@@ -27,7 +27,7 @@ import { buildFromV1Document } from '../tldr/buildFromV1Document'
 export const TLDRAW_FILE_MIMETYPE = 'application/vnd.tldraw+json' as const
 
 /** @public */
-export const TLDRAW_FILE_EXTENSION = '.tldr' as const
+export const TLDRAW_FILE_EXTENSION = '.schoolboard' as const
 
 // When incrementing this, you'll need to update parseTldrawJsonFile to handle
 // both your new changes and the old file format
