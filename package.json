@@ -4,19 +4,19 @@
 	"version": "0.0.0",
 	"private": true,
 	"author": {
-		"name": "tldraw GB Ltd.",
-		"email": "hello@tldraw.com"
+		"name": "Minecraft3193092 School Organization.",
+		"email": "minecraft3193092@gmail.com"
 	},
 	"homepage": "https://tldraw.dev",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tldraw/tldraw"
+		"url": "https://github.com/Minecraft3193092school-organization/schoolboard"
 	},
 	"bugs": {
-		"url": "https://github.com/tldraw/tldraw/issues"
+		"url": "https://github.com/Minecraft3193092school-organization/schoolboard/issues"
 	},
 	"keywords": [
-		"tldraw",
+		"schoolboard",
 		"drawing",
 		"app",
 		"development",
